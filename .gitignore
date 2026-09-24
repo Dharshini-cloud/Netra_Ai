@@ -10,3 +10,7 @@ data/splits/*.mat
 models/*.mat
 reports/
 *.asv
+ 
+# Ignore markdown documentation files
+*.md
+!README.md

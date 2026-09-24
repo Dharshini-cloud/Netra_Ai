@@ -13,4 +13,9 @@ reports/
  
 # Ignore markdown documentation files
 *.md
-!README.md
+# Ignore screenshots, sample reports, and text logs
+*.png
+*.jpg
+*.jpeg
+*.html
+*.txt

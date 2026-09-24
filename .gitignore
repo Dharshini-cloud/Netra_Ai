@@ -1,0 +1,12 @@
+data/raw/*
+!data/raw/README.md
+data/processed/images/*
+data/processed/masks/*
+!data/processed/images/README.md
+!data/processed/masks/README.md
+data/processed/*.mat
+data/splits/*.mat
+!data/splits/README.md
+models/*.mat
+reports/
+*.asv
